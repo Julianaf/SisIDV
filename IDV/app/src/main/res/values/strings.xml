@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appIDV</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tela_categorias">TelaCategorias</string>
+    <string name="title_activity_detalhe_vestimenta">DetalheVestimenta</string>
+    <string name="title_activity_tela_inicial">tela_inicial</string>
+</resources>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="EditTextRosinha" parent="android:Widget.EditText">
+	  <item name="android:background">@drawable/rosinha_edit_text_holo_light</item>
+	  <item name="android:textColor">#000000</item>
+  </style>
+
+  <style name="AutoCompleteTextViewRosinha" parent="android:Widget.AutoCompleteTextView">
+      <item name="android:dropDownSelector">@drawable/rosinha_list_selector_holo_light</item>
+	  <item name="android:background">@drawable/rosinha_edit_text_holo_light</item>
+	  <item name="android:textColor">#000000</item>
+  </style>
+
+  <style name="CheckBoxRosinha" parent="android:Widget.CompoundButton.CheckBox">
+      <item name="android:button">@drawable/rosinha_btn_check_holo_light</item>
+  </style>
+
+  <style name="RadioButtonRosinha" parent="android:Widget.CompoundButton.RadioButton">
+      <item name="android:button">@drawable/rosinha_btn_radio_holo_light</item>
+  </style>
+
+  <style name="ButtonRosinha" parent="android:Widget.Button">
+	  <item name="android:background">@drawable/rosinha_btn_default_holo_light</item>
+	  <item name="android:minHeight">48dip</item>
+	  <item name="android:minWidth">64dip</item>
+	  <item name="android:textColor">#000000</item>
+  </style>
+
+  <style name="ImageButtonRosinha" parent="android:Widget.ImageButton">
+	  <item name="android:background">@drawable/rosinha_btn_default_holo_light</item>
+  </style>
+
+  <style name="SpinnerRosinha" parent="android:Widget.Spinner">
+      <item name="android:background">@drawable/rosinha_spinner_background_holo_light</item>
+      <item name="android:dropDownSelector">@drawable/rosinha_list_selector_holo_light</item>
+  </style>
+
+  <style name="SpinnerDropDownItemRosinha" parent="android:Widget.DropDownItem.Spinner">
+      <item name="android:checkMark">@drawable/rosinha_btn_radio_holo_light</item>
+  </style>
+  <style name="ProgressBarRosinha" parent="android:Widget.ProgressBar.Horizontal">
+      <item name="android:progressDrawable">@drawable/rosinha_progress_horizontal_holo_light</item>
+      <item name="android:indeterminateDrawable">@drawable/rosinha_progress_indeterminate_horizontal_holo_light</item>
+      <item name="android:minHeight">16dip</item>
+      <item name="android:maxHeight">16dip</item>
+  </style>
+
+  <style name="SeekBarRosinha" parent="android:Widget.SeekBar">
+      <item name="android:progressDrawable">@drawable/rosinha_scrubber_progress_horizontal_holo_light</item>
+      <item name="android:indeterminateDrawable">@drawable/rosinha_scrubber_progress_horizontal_holo_light</item>
+      <item name="android:minHeight">13dip</item>
+      <item name="android:maxHeight">13dip</item>
+      <item name="android:thumb">@drawable/rosinha_scrubber_control_selector_holo_light</item>
+      <item name="android:thumbOffset">16dip</item>
+      <item name="android:paddingLeft">16dip</item>
+      <item name="android:paddingRight">16dip</item>
+  </style>
+
+  <style name="RatingBarRosinha" parent="android:Widget.RatingBar">
+      <item name="android:progressDrawable">@drawable/rosinha_ratingbar_full_holo_light</item>
+      <item name="android:indeterminateDrawable">@drawable/rosinha_ratingbar_full_holo_light</item>
+  </style>
+
+  <style name="RatingBarSmallRosinha" parent="android:Widget.RatingBar">
+      <item name="android:progressDrawable">@drawable/rosinha_ratingbar_small_holo_light</item>
+      <item name="android:indeterminateDrawable">@drawable/rosinha_ratingbar_small_holo_light</item>
+      <item name="android:minHeight">16dip</item>
+      <item name="android:maxHeight">16dip</item>
+  </style>
+
+  <style name="ListViewRosinha" parent="android:Widget.ListView">
+      <item name="android:listSelector">@drawable/rosinha_list_selector_holo_light</item>
+  </style>
+
+  <style name="ListViewRosinha.White" parent="android:Widget.ListView.White">
+      <item name="android:listSelector">@drawable/rosinha_list_selector_holo_light</item>
+  </style>
+
+  <style name="SpinnerItemRosinha" parent="android:TextAppearance.Widget.TextView.SpinnerItem">
+      <item name="android:textColor">#000000</item>
+  </style>
+
+</resources>

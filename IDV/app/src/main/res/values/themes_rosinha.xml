@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="Rosinha" parent="@style/_Rosinha"/>
+
+  <style name="_Rosinha" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    <item name="android:editTextStyle">@style/EditTextRosinha</item>
+
+    <item name="android:textColorHighlight">#99f393f5</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewRosinha</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxRosinha</item>
+
+    <item name="android:radioButtonStyle">@style/RadioButtonRosinha</item>
+
+    <item name="android:buttonStyle">@style/ButtonRosinha</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonRosinha</item>
+
+    <item name="android:spinnerStyle">@style/SpinnerRosinha</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemRosinha</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarRosinha</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarRosinha</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarRosinha</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallRosinha</item>
+
+    <item name="android:listViewStyle">@style/ListViewRosinha</item>
+
+    <item name="android:listViewWhiteStyle">@style/ListViewRosinha.White</item>
+
+    <item name="android:spinnerItemStyle">@style/SpinnerItemRosinha</item>
+
+  </style>
+
+</resources>

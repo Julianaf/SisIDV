@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="Rosinha" parent="@style/_Rosinha"/>
+
+  <style name="_Rosinha" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    <item name="android:editTextBackground">@drawable/rosinha_edit_text_holo_light</item>
+
+    <item name="android:textColorHighlight">#99f393f5</item>
+    <item name="android:textSelectHandleLeft">@drawable/rosinha_text_select_handle_left</item>
+    <item name="android:textSelectHandleRight">@drawable/rosinha_text_select_handle_right</item>
+    <item name="android:textSelectHandle">@drawable/rosinha_text_select_handle_middle</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewRosinha</item>
+
+    <item name="android:listChoiceIndicatorMultiple">@drawable/rosinha_btn_check_holo_light</item>
+
+    <item name="android:listChoiceIndicatorSingle">@drawable/rosinha_btn_radio_holo_light</item>
+
+    <item name="android:buttonStyle">@style/ButtonRosinha</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonRosinha</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerRosinha</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarRosinha</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarRosinha</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarRosinha</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallRosinha</item>
+
+    <item name="android:listChoiceBackgroundIndicator">@drawable/rosinha_list_selector_holo_light</item>
+
+    <item name="android:activatedBackgroundIndicator">@drawable/rosinha_activated_background_holo_light</item>
+
+  </style>
+
+</resources>
